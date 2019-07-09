@@ -1,0 +1,6 @@
+C:\Users\HENRYELL\AppData\Local\Temporary Projects\2DimArray\bin\Debug\2DimArray.exe.config
+C:\Users\HENRYELL\AppData\Local\Temporary Projects\2DimArray\bin\Debug\2DimArray.exe
+C:\Users\HENRYELL\AppData\Local\Temporary Projects\2DimArray\bin\Debug\2DimArray.pdb
+C:\Users\HENRYELL\AppData\Local\Temporary Projects\2DimArray\obj\Debug\2DimArray.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\AppData\Local\Temporary Projects\2DimArray\obj\Debug\2DimArray.exe
+C:\Users\HENRYELL\AppData\Local\Temporary Projects\2DimArray\obj\Debug\2DimArray.pdb

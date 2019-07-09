@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DimArray", "3DimArray\3DimArray.csproj", "{EE414A2B-9FD0-4941-AC22-A168B593CBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE414A2B-9FD0-4941-AC22-A168B593CBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE414A2B-9FD0-4941-AC22-A168B593CBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE414A2B-9FD0-4941-AC22-A168B593CBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE414A2B-9FD0-4941-AC22-A168B593CBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3639BEC-1B16-4417-B392-E2E94C564891}
+	EndGlobalSection
+EndGlobal
