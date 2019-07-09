@@ -1,0 +1,7 @@
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.csprojAssemblyReference.cache
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+C:\Users\HENRYELL\Source\Repos\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.pdb
