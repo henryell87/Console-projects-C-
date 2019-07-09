@@ -1,0 +1,7 @@
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\bin\Debug\ConstructorLineApplication.exe.config
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\bin\Debug\ConstructorLineApplication.exe
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\bin\Debug\ConstructorLineApplication.pdb
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\obj\Debug\ConstructorLineApplication.csprojAssemblyReference.cache
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\obj\Debug\ConstructorLineApplication.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\obj\Debug\ConstructorLineApplication.exe
+C:\Users\HENRYELL\Source\Repos\ConstructorLineApplication\ConstructorLineApplication\obj\Debug\ConstructorLineApplication.pdb
