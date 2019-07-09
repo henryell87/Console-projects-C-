@@ -1,0 +1,7 @@
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\bin\Debug\2D3DArrays.exe.config
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\bin\Debug\2D3DArrays.exe
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\bin\Debug\2D3DArrays.pdb
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\obj\Debug\2D3DArrays.csprojAssemblyReference.cache
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\obj\Debug\2D3DArrays.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\obj\Debug\2D3DArrays.exe
+C:\Users\HENRYELL\Source\Repos\2D3DArrays\2D3DArrays\obj\Debug\2D3DArrays.pdb
